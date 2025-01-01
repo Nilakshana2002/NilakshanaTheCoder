@@ -1,12 +1,49 @@
-# NilakshanaTheCoder
+<center><h1><p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p></h1></center>
 <h1 align="center">Hi 👋, I'm Pasindu Nilakshana</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology from Sri Lanka</h3>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **Java,Java Script,PHP,Bootstrap**
 
-- 🌱 I’m currently learning **Java Script,PHP,Bootstrap,Node Js,HTML,CSS,C,C++**
+- 🧑‍🎓 I’m an Undergraduate at **University Of Ruhuna**
+
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **5657pasindu@gmail.com**
+  
+- ⚡ Fun fact **"I’m not a bug magnet; I’m just testing gravity in my code." 😄**
 
-- ⚡ Fun fact **I’m not a bug magnet; I’m just testing gravity in my code.**
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Statistic</b></i></p>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Nilakshana2002&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+   
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Nilakshana2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
